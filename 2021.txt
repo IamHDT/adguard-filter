@@ -15,8 +15,8 @@
 ||www.youtube.com/api/stats/qoe?
 ||www.youtube.com/ptracking^
 ||www.youtube.com/pagead^
-||www.youtube.com/pagead/adview
-||www.youtube.com/get_midroll_info
+||www.youtube.com/pagead/adview?^
+||www.youtube.com/get_midroll_info?^
 ||youtube.com###masthead-ad^
 ||youtube.com##.ytp-ad-progress-list^
 ||youtube.com##.video-ads^
